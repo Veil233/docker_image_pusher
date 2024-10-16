@@ -14,6 +14,7 @@ postgres:9.6
 openjdk:18.0.2.1-slim
 jenkins/jenkins
 grafana/promtail
+elastic/kibana
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
