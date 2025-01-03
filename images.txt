@@ -1,20 +1,5 @@
 #支持私库
-#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#xhofe/alist:latest
-nginx
-tomcat
-mysql
-redis
-jenkins/jenkins:2.346.1-lts
-gitlab/gitlab-ce
-postgres:9.6
-sonatype/nexus3
-sonatype/nexus3:3.25.1
-postgres:9.6
-openjdk:18.0.2.1-slim
-jenkins/jenkins
-grafana/promtail
-kibana
+
 hashicorp/vault:1.18.3
 
 #支持指定架构
